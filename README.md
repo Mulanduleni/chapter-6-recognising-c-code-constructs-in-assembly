@@ -4,7 +4,7 @@
 ![IDA Pro](https://img.shields.io/badge/Tool-IDA%20Pro-red)
 ![Language](https://img.shields.io/badge/Language-C-green)
 ![Compiler](https://img.shields.io/badge/Compiler-Dev--C++-orange)
-![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 Practical reverse engineering exercises focused on recognising common C programming constructs in assembly language using Dev-C++ and IDA Pro.
 
@@ -56,8 +56,6 @@ https://www.embarcadero.com/free-tools/dev-cpp
 07_Function_Call_Conventions
 08_Switch_Statements
 09_Arrays
-Manual
-screenshots
 ```
 
 ---
@@ -76,40 +74,20 @@ This repository was created for educational purposes to assist students learning
 
 # Academic Acknowledgement
 
-Some practical concepts and reverse engineering exercises contained in this repository were inspired by reverse engineering educational materials and assembly language learning resources.
+Some reverse engineering concepts, malware analysis techniques, and assembly language analysis approaches used in this repository were inspired by the book:
 
-This repository reorganises, documents, and expands the exercises for educational purposes using Dev-C++ and IDA Pro.
+**Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software**
+by Michael Sikorski and Andrew Honig.
 
-All additional explanations, screenshots, formatting, walkthroughs, and repository organisation were developed by Mulanduleni Niilungu.
+This repository reorganises, documents, and expands practical exercises for educational purposes using Dev-C++ and IDA Pro.
 
----
-
-# Manual Files
-
-The complete practical manual is available in the `Manual` folder in both PDF and DOCX formats.
-
-Example:
-
-```text
-Manual/
-├── Chapter6_Assembly_Manual.pdf
-└── Chapter6_Assembly_Manual.docx
-```
+Additional explanations, screenshots, formatting, walkthroughs, and repository organisation were developed by Mulanduleni Niilungu for cybersecurity learning and teaching purposes.
 
 ---
 
-# Example Source Files
+# Reference
 
-Each chapter folder contains example C source files, screenshots, and reverse engineering demonstrations.
-
-Example:
-
-```text
-01_Global_vs_Local_Variables/
-├── listing_6_1_global.c
-├── listing_6_2_local.c
-└── screenshots/
-```
+Sikorski, M., & Honig, A. (2012). *Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software*. No Starch Press.
 
 ---
 

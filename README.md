@@ -10,18 +10,6 @@ Practical reverse engineering exercises focused on recognising common C programm
 
 ---
 
-# Repository Preview
-
-## Folder Structure
-
-![Folder Structure](screenshots/folder-structure.png)
-
-## Manual Preview
-
-![Manual Preview](screenshots/manual-preview.png)
-
----
-
 # Tools Used
 
 * Dev-C++

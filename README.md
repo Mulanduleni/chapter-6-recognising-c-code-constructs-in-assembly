@@ -28,6 +28,14 @@ Official Download:
 https://www.embarcadero.com/free-tools/dev-cpp
 
 ---
+# IDA Free / IDA Pro Download
+
+IDA Free / IDA Pro was used for static analysis and assembly language disassembly throughout this practical manual.
+
+Official Download:
+
+https://hex-rays.com/ida-free/
+---
 
 # Topics Covered
 
